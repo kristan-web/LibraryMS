@@ -1,0 +1,174 @@
+# depslib dependency file v1.0
+1760685901 source:c:\users\kc\desktop\dsaproject\functions\functions.cpp
+	<iostream>
+	"../headers/headers.h"
+
+1760685679 c:\users\kc\desktop\dsaproject\headers\headers.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+
+1760685477 source:c:\users\kc\desktop\dsaproject\main.cpp
+	<iostream>
+	"headers/headers.h"
+
+1760683953 c:\users\kc\desktop\dsaproject\functions\functions.cpp
+	<iostream>
+	"../headers/headers.h"
+
+1760684634 source:c:\users\kc\desktop\dsaproject\quizify\quizify\accountcreation.cpp
+	"include/AccountCreation.h"
+	"include/Classes.h"
+	"include/System.h"
+	"include/Animations.h"
+	"include/FileHandling.h"
+	<iostream>
+
+1760684634 c:\users\kc\desktop\dsaproject\quizify\quizify\include\accountcreation.h
+	"Classes.h"
+	<iostream>
+	<vector>
+
+1760684634 c:\users\kc\desktop\dsaproject\quizify\quizify\include\classes.h
+	<iostream>
+	<vector>
+	<windows.h>
+
+1760684634 c:\users\kc\desktop\dsaproject\quizify\quizify\include\system.h
+	<iostream>
+
+1760684634 c:\users\kc\desktop\dsaproject\quizify\quizify\include\animations.h
+	<iostream>
+
+1760684634 c:\users\kc\desktop\dsaproject\quizify\quizify\include\filehandling.h
+	"Classes.h"
+	<iostream>
+	<fstream>
+	<cstdio>
+
+1760684634 source:c:\users\kc\desktop\dsaproject\quizify\quizify\animations.cpp
+	"include/Animations.h"
+	<iostream>
+	<windows.h>
+
+1760684634 source:c:\users\kc\desktop\dsaproject\quizify\quizify\classes.cpp
+	"include/Classes.h"
+	"include/Animations.h"
+	"include/System.h"
+	"include/Menu.h"
+	"include/FileHandling.h"
+	<iostream>
+	<limits>
+
+1760684634 c:\users\kc\desktop\dsaproject\quizify\quizify\include\menu.h
+	"Classes.h"
+	<iostream>
+	<vector>
+
+1760684634 source:c:\users\kc\desktop\dsaproject\quizify\quizify\filehandling.cpp
+	"include/FileHandling.h"
+	"include/Classes.h"
+	"include/Animations.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1760684634 source:c:\users\kc\desktop\dsaproject\quizify\quizify\main.cpp
+	"include/Menu.h"
+	"include/System.h"
+	"include/Classes.h"
+	"include/AccountCreation.h"
+	"include/FileHandling.h"
+	<iostream>
+	<vector>
+
+1760684634 source:c:\users\kc\desktop\dsaproject\quizify\quizify\menu.cpp
+	"include/Menu.h"
+	"include/System.h"
+	"include/Animations.h"
+	"include/Classes.h"
+	"include/FileHandling.h"
+	"include/Timer.h"
+	<iostream>
+	<windows.h>
+	<ctime>
+
+1760684634 c:\users\kc\desktop\dsaproject\quizify\quizify\include\timer.h
+	<iostream>
+	<windows.h>
+	<ctime>
+	<conio.h>
+	<vector>
+	"Classes.h"
+
+1760684634 source:c:\users\kc\desktop\dsaproject\quizify\quizify\points.cpp
+	"include/Animations.h"
+	"include/System.h"
+	"include/FileHandling.h"
+	"include/Classes.h"
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<ctime>
+
+1760684634 source:c:\users\kc\desktop\dsaproject\quizify\quizify\system.cpp
+	"include/System.h"
+	<vector>
+	<iostream>
+	<windows.h>
+	<limits>
+	<conio.h>
+	<ctime>
+
+1760684634 source:c:\users\kc\desktop\dsaproject\quizify\quizify\timer.cpp
+	"include/System.h"
+	"include/FileHandling.h"
+	"include/Classes.h"
+	"include/Animations.h"
+	"include/Menu.h"
+	"include/Timer.h"
+	<iostream>
+	<windows.h>
+	<ctime>
+	<conio.h>
+	<vector>
+	<string>
+	<limits>
+
+1760688239 source:c:\users\kc\desktop\projectssssss\dsaproject\functions\functions.cpp
+	<iostream>
+	"../headers/headers.h"
+
+1760688106 c:\users\kc\desktop\projectssssss\dsaproject\headers\headers.h
+	"common.h"
+	"Classes.h"
+	"System.h"
+	"Menus.h"
+
+1760687747 source:c:\users\kc\desktop\projectssssss\dsaproject\functions\menus.cpp
+	"../headers/Menus.h"
+
+1760688204 c:\users\kc\desktop\projectssssss\dsaproject\headers\menus.h
+	"common.h"
+
+1760687295 c:\users\kc\desktop\projectssssss\dsaproject\headers\common.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<vector>
+
+1760687873 c:\users\kc\desktop\projectssssss\dsaproject\headers\classes.h
+	"common.h"
+
+1760688239 source:c:\users\kc\desktop\projectssssss\dsaproject\functions\system.cpp
+	"../headers/Menus.h"
+
+1760687994 source:c:\users\kc\desktop\projectssssss\dsaproject\functions\classes.cpp
+	"../headers/Classes.h"
+
+1760688239 c:\users\kc\desktop\projectssssss\dsaproject\headers\system.h
+	"common.h"
+
+1760687944 source:c:\users\kc\desktop\projectssssss\dsaproject\main.cpp
+	"headers/headers.h"
+
