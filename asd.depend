@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1761372553 source:c:\users\kc\desktop\dsadeepseek\asd\book.cpp
+	"book.h"
+	<iomanip>
+
+1761372546 c:\users\kc\desktop\dsadeepseek\asd\book.h
+	<string>
+	<iostream>
+
+1761372641 source:c:\users\kc\desktop\dsadeepseek\asd\main.cpp
+	<iostream>
+	<limits>
+	"library.h"
+	"book.h"
+
+1761372975 c:\users\kc\desktop\dsadeepseek\asd\library.h
+	"book.h"
+	<vector>
+	<string>
+	<algorithm>
+
+1761372975 source:c:\users\kc\desktop\dsadeepseek\asd\library.cpp
+	"library.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<algorithm>
+	<map>
+	<sstream>
+
